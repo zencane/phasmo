@@ -1,3 +1,8 @@
+#### To add soon..
+- change timer sounds to something less harsh (no more apple alarm sound)
+- make all evidence icons clickable for easier access
+- evidence about the ghosts are *clearer* to help with no evidence runs
+
 # Phasmophobia Ghost Finder
 A tool to be used alongside the game Phasmophobia, to help with identifying the ghost, as well as calculating photograph value, randomising items for challenges, and maps to help you find your way.
 
@@ -65,13 +70,6 @@ To add another language to the tool, you will need to do the following:
 
 - Copy `langs/en.js` to a new file, named with the language code you wish to use
 - Modify the first line to match the property to the filename
-
-## To-Do
-- change timer sounds to something less harsh (no more apple alarm sound)
-- make all evidence icons clickable for easier access
-- evidence about the ghosts are *clearer* to help with no evidence runs
-
-
 
 ```javascript
 langs.en = { // Property here should match this language name
